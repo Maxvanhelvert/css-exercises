@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+
+.alert {
+    background-color: rgb(242, 170, 169);
+    font-family: verdana, "DejaVu Sans", sans-serif
+}
+
+#headline {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.strong {
+    font-size: 24px;
+}
+
+#headline2 {
+    background-color: hsl(120, 73%, 75%);
+    font-size: 24px;
+    font-weight: bold;
+}
